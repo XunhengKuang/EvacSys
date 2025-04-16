@@ -1,0 +1,1 @@
+Emergency Evacuation Management Platform: The front-end interface is built using Vue, while the back-end is developed with Spring Boot and MyBatis to implement modules such as user permissions, alert notifications, emergency response, and map-based evacuation.
